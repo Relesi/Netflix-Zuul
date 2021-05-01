@@ -1,33 +1,12 @@
-[![Build Status](https://travis-ci.org/Relesi/ponto-inteligente-api-1.1.svg?branch=master)](https://travis-ci.org/Relesi/ponto-inteligente-api-1.1)
-# Netflix-Zuul
+ Zuul
 
-Zuul for integration system with Java and Spring Boot.
+<img src="https://i.imgur.com/mRSosEp.png" width=500/>
 
-### RESTful API details
+[![Build Status](https://travis-ci.org/Netflix/zuul.svg)](https://travis-ci.org/Netflix/zuul/builds)
 
-### How to run the service
+Zuul is an L7 application gateway that provides capabilities for dynamic routing, monitoring, resiliency, security, and more.
+Please view the wiki for usage, information, HOWTO, etc https://github.com/Netflix/zuul/wiki
 
-	Make sure you have Maven installed and added to your operating system's PATH, as well as Git.
-	cd /path/to/your/repo
-	mvn spring-boot:run
-	
-### Importing the project into Eclipse STS, Eclipse or Intellij
+Here are some links to help you learn more about the Zuul Project. Feel free to PR to add any other info, presentations, etc.
 
-* mvn eclipse:eclipse
-	
-* In STS/Eclipse import the project as project  Maven.
-* After the project is imported, change the application to test and run the following commands.
-* mvn clean install
-* mvn install 
-* maven - update project
-
-
-### Dependencies 
-
-* Java 11
-* Maven 2.4.11
-* Spring Framework Versão (2.4.2) 
-* jUnit 5 (org.junit.jupiter.api, org.junit.jupiter.engine and org.junit.jupiter.params - 5.4.0)
-* Log4j (1.2.17)
-* Jacoco (0.7.9)
-* Swagger(2.7.0)
+---
