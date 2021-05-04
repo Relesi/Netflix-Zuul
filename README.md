@@ -61,3 +61,13 @@ https://blog.heroku.com/using_netflix_zuul_to_proxy_your_microservices
 
 http://blog.ippon.tech/jhipster-3-0-introducing-microservices/
 
+---
+
+Other blog posts about Zuul:
+
+https://engineering.riotgames.com/news/riot-games-api-fulfilling-zuuls-destiny
+
+https://engineering.riotgames.com/news/riot-games-api-deep-dive
+
+http://instea.sk/2015/04/netflix-zuul-vs-nginx-performance/
+
